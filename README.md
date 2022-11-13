@@ -1,5 +1,5 @@
 # MCUltimate
-MCUltimate is a python libary for creating minecraft datapacks and resourcepacks.
+MCUltimate is a Python libary for creating Minecraft Datapacks and Resourcepacks.
 
 ## Tips
 When you are coding, the names of the variables **DO NOT MATTER!!!**
@@ -81,8 +81,8 @@ When you are coding, the names of the variables **DO NOT MATTER!!!**
     `a. mcultimate.py`
     `b. mcfuncs.py`
     `c. mcvars.py`
-2. Create your main file ex. main.py
-3. and import mcultimate
+2. Create your main file (for example main.py).
+3. Import MCUltimate.
 ```python
 from mcultimate import *
 ```
@@ -93,4 +93,4 @@ from mcultimate import *
 I will try my best to release a new version every week. If I do release a new version, it will be on Friday and If I cant release a new version I will try to release one as soon as possible!
 
 ## Changelog
-You can find the changelog [here](https://gist.github.com/RevolvingMadness/2b2c18bfef326a28ae7c8a6b18fcaaa7)
+You can find the changelog [here](https://gist.github.com/RevolvingMadness/2b2c18bfef326a28ae7c8a6b18fcaaa7)!
